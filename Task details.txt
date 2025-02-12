@@ -1,0 +1,42 @@
+pg 1
+
+Modern News Website (Landscape Page) 
+(Jan-Feb Cohort 2025, Week#03) 
+Objective: 
+Develop a modern, responsive news website landscape page using HTML, CSS, and JavaScript (or React/Next.js). The design should be clean, structured, and user-friendly, emphasizing readability, easy navigation, and a modern news layout suitable for digital audiences. 
+Task Details: 
+Technology Stack: HTML, CSS, JavaScript (or React/Next.js for a dynamic approach). 
+Page Type: Landscape-oriented news website (desktop-first approach). 
+News Category Options: 
+General News 
+• Technology 
+Politics 
+• 
+Sports, etc. 
+Color Scheme & Typography: Choose a professional, readable font and a neutral or industry-relevant color palette for a modern and trustworthy look. 
+Responsiveness: Use CSS Grid/Flexbox or Tailwind CSS/Bootstrap for responsiveness across desktop, tablet, and mobile. 
+Key Functionalities & QUI Components to Include: 
+PAKISTAN 
+1. Header & Navigation Bar Logo, categories, search bar, login/signup. 
+2. Hero Section Featured news with a large image or video. 
+3. Latest News Section - Grid or list layout for recent articles. 
+4. Trending News Section - Highlighting most-read or most-shared articles. 
+5. Sidebar Widgets (Optional) - Weather, stock updates, or related articles. 
+6. Footer Social media links, newsletter signup, copyright info. 
+Requirements: 
+Use a structured and scalable file organization (HTML/CSS/JS or React components). 
+Ensure clear hierarchy for headlines, subheadings, and article previews. 
+Implement accessibility best practices (contrast, font size, readability). 
+Use proper UI elements (cards, buttons, icons, hover effects). 
+Optimize images and assets for faster performance.
+
+pg 2 
+
+Add simple animations for hover effects and page transitions. 
+Bonus (Optional): 
+Fetch dynamic news articles from a news API (e.g., NewsAPI). 
+Enable a dark mode toggle for better user experience. 
+Implement a simple search and filter functionality for articles. 
+Submission Deadline: 10th February 2025 
+Thanks 
+INTERNSHIP PAKISTAN
